@@ -36,6 +36,10 @@ To run the project, you need to have the following installed:
 
 The robot will start navigating in the simulated environment, avoiding obstacles based on the sensor input.
 
+## Demo
+
+![Robot Obstacle Avoidance](robot-demo.gif)
+
 ## Improvements
 
 Some potential improvements:
