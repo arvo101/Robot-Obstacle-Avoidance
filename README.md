@@ -38,7 +38,7 @@ The robot will start navigating in the simulated environment, avoiding obstacles
 
 ## Improvements
 
-Some potential improvements you might consider implementing in the future:
+Some potential improvements:
 
 - **Goal-Oriented Navigation**: Implement functionality to give the robot a specific target position to navigate to, rather than just avoiding obstacles.
 - **Sensor Fusion**: Combine data from multiple sensors to improve decision-making and avoid false positives in obstacle detection.
