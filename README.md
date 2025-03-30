@@ -38,7 +38,7 @@ The robot will start navigating in the simulated environment, avoiding obstacles
 
 ## Demo
 
-![Robot Obstacle Avoidance](robot-demo.gif)
+![Robot Obstacle Avoidance](assets/robot-demo.gif)
 
 ## Improvements
 
